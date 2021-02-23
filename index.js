@@ -1,7 +1,7 @@
 // Constants
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateReadMe = require('./utilities/generateReadMe');
+const generateReadMe = require('./generateReadMe');
 const util = require('util');
 const writeFileAsync = util.promisify(fs.writeFile);
 
