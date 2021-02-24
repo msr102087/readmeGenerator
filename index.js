@@ -101,4 +101,27 @@ function promptUser(){
 }
 
 
+// Asynch Function
+async function init() {
+    try {
+
+    // Generate User Answers
+    const response = await promptUser();
+    const userContent = generateReadMe(response);
+
+    // Function to generate input content to README
+
+    await writeFileAsync('./dist/README.md', userContent);
+    console.log ('User Input Successfully wrote to README.md');
+
+    }
+
+    catch(err) {
+
+        console.log(err);
+    }
+
+
+}
+
 init();
