@@ -45,20 +45,10 @@ function promptUser(){
 
         {
 
-            type: 'list',
+            type: 'input',
             name: 'license',
-            message: 'Select the appropriate license for this project.',
-            choices: [
-                'Apache',
-                'Academic',
-                'GNU',
-                'ISC',
-                'MIT',
-                'Mozilla',
-                'Open'
-                
-            ]
-
+            message: 'Please provide the license for the project.',
+    
 
         },
 
