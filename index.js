@@ -91,7 +91,7 @@ function promptUser(){
 }
 
 
-// Asynch Function
+// Async Function
 async function init() {
     try {
 
@@ -106,12 +106,14 @@ async function init() {
 
     }
 
-    catch(err) {
+    catch(error) {
 
-        console.log(err);
+        console.log(error);
     }
 
 
 }
 
 init();
+
+// ASK BRIAN ABOUT ISSUES WITH INSTALLING INQUIRER AND UTIL 
