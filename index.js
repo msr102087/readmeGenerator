@@ -1,7 +1,7 @@
 // Constants
 const fs = require('fs');
 const inquirer = require('inquirer');
-const generateReadMe = require('./generateReadMe');
+const generateReadMe = require('./utilities/generateReadMe');
 const util = require('util');
 const writeFileAsync = util.promisify(fs.writeFile);
 
@@ -115,5 +115,3 @@ async function init() {
 }
 
 init();
-
-// ASK BRIAN ABOUT ISSUES WITH INSTALLING INQUIRER AND UTIL 

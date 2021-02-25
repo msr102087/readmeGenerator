@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/msr102087/readmeGenerator/issues"
   },
-  "homepage": "https://github.com/msr102087/readmeGenerator#readme"
+  "homepage": "https://github.com/msr102087/readmeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }

@@ -1,55 +1,61 @@
 function generateReadMe(response) {
 
     return `
-    # ${response.title}
+# ${response.title}
 
 
-    ${license.badge}
+${licenseBadge(response.license)}
 
-    ## Project Description 
+## Project Description 
 
-    ${response.description}
+${response.description}
 
-    ## Table of Contents
+## Table of Contents
 
-    -[Description](#description)
-    -[Installation](#installation)
-    -[Usage](#usage)
-    -[License](#license)
-    -[Contributors](#contributors)
-    -[Tests]
-    (#tests)
+-[Description](#description)
+-[Installation](#installation)
+-[Usage](#usage)
+-[License](#license)
+-[Contributors](#contributors)
+-[Tests](#tests)
+- [Questions](#questions)
     
     
 
 
-    ## Installation
+## Installation
 
-    ${response.installation}
+${response.installation}
 
-    ## Usage
+## Usage
 
-    ${response.usage}
+${response.usage}
 
-    ## License
+## License
 
-    ${response.license}
+${response.license}
 
-    ## Project Contributors
+## Project Contributors
 
-    ${response.contributors}
+${response.contributors}
 
-    ## Tests
+## Tests
 
-    ${response.tests}
+${response.tests}
 
+## Questions
 
-    
-    `
+If you have any questions or comments regarding this project.  Please contact ${response.username} at ${response.email}
 
-    // TO DO:  Format how to put in contact information
+`
 
-    // License Badge Formatting
     
     
 }
+
+function licenseBadge (license) {
+
+    return `![github license](https://img.shields.io/badge/License-${license}-yellowgreen.svg)`
+}
+
+module.exports = generateReadMe
