@@ -6,7 +6,9 @@
 
 ## Project Description 
 
-This project was created to help github users generate a README using the command line interface and Node.js dynamically.  
+This project was created to help github users generate a README using the command line interface and Node.js dynamically. 
+
+<img width="1225" alt="Screen Shot 2021-02-25 at 10 16 59 PM" src="https://user-images.githubusercontent.com/74628028/109264301-9f49c880-77b9-11eb-9d73-6ee0aef8fb1e.png">
 
 ## Table of Contents
 
