@@ -43,4 +43,4 @@ Megan Russell
 
 ## Questions
 
-If you have any questions or comments regarding this project.  Please contact msr102087 at megan.russell50@gmail.com
+If you have any questions or comments regarding this project.  Please contact the contributor at [msr102087](https://github.com/msr102087) , or email megan.russell50@gmail.com
