@@ -2,7 +2,7 @@
 # README.md Generator
 
 
-![github license](https://img.shields.io/badge/License-MIT License-yellowgreen.svg)
+![badge](https://img.shields.io/badge/License-MIT-yellowgreen.svg)
 
 ## Project Description 
 
