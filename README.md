@@ -10,13 +10,13 @@ This project was created to help github users generate a README using the comman
 
 ## Table of Contents
 
--[Description](#description)
--[Installation](#installation)
--[Usage](#usage)
--[License](#license)
--[Contributors](#contributors)
--[Tests](#tests)
-- [Questions](#questions)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Tests](#tests)
+* [Questions](#questions)
     
     
 
