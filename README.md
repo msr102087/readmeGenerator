@@ -14,6 +14,10 @@ This project was created to help github users generate a README using the comman
 
 <img width="1232" alt="Screen Shot 2021-02-25 at 10 17 13 PM" src="https://user-images.githubusercontent.com/74628028/109264397-c99b8600-77b9-11eb-96ed-b1a38585b30d.png">
 
+### Example Video
+
+If you would like to view a video demonstration of how to use this project please visit:  <iframe width="560" height="315" src="https://www.youtube.com/embed/a5Zc3pPi-9E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Table of Contents
 
