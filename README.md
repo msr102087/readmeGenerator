@@ -16,7 +16,7 @@ This project was created to help github users generate a README using the comman
 
 ### Example Video
 
-If you would like to view a video demonstration of how to use this project please visit:  <iframe width="560" height="315" src="https://www.youtube.com/embed/a5Zc3pPi-9E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you would like to view a video demonstration of how to use this project please visit:  https://youtu.be/a5Zc3pPi-9E
 
 
 ## Table of Contents
