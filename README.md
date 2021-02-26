@@ -8,7 +8,12 @@
 
 This project was created to help github users generate a README using the command line interface and Node.js dynamically. 
 
+### Sample Read Me Generated with this project:
+
 <img width="1225" alt="Screen Shot 2021-02-25 at 10 16 59 PM" src="https://user-images.githubusercontent.com/74628028/109264301-9f49c880-77b9-11eb-9d73-6ee0aef8fb1e.png">
+
+<img width="1232" alt="Screen Shot 2021-02-25 at 10 17 13 PM" src="https://user-images.githubusercontent.com/74628028/109264397-c99b8600-77b9-11eb-96ed-b1a38585b30d.png">
+
 
 ## Table of Contents
 
