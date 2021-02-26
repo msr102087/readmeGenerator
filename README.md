@@ -16,7 +16,7 @@ This project was created to help github users generate a README using the comman
 
 ### Example Video
 
-https://media.giphy.com/media/IFVpSqRrmTYLhGRP1S/giphy.gif
+![](https://media.giphy.com/media/IFVpSqRrmTYLhGRP1S/giphy.gif)
 
 If you would like to view a video demonstration of how to use this project please visit:  https://youtu.be/a5Zc3pPi-9E
 
